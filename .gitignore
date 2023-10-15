@@ -1,0 +1,45 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+*.iws
+.idea_modules/
+out/
+
+# SBT
+target/
+project/target/
+project/project/
+.cache/
+lib_managed/
+src_managed/
+logs/
+
+# Maven
+target/
+
+# Build tools
+build/
+bin/
+classes/
+dist/
+lib/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Scala-specific
+metals.sbt
+metals/
+.project/
+.bloop/
+.bsp/
+.metals/
+.metals-cp/
+.ensime_cache/
+.ensime/
+fastpass/
+*.table
+.scoverage/
